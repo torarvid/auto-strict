@@ -1,0 +1,17 @@
+{
+  "name": "use-strict-yo",
+  "version": "0.0.1",
+  "description": "Add 'use strict'; to all code not in node_modules",
+  "main": "index.js",
+  "author": "Tor Arvid Lund <torarvid@gmail.com>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.0.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-node": "^5.0.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
