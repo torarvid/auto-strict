@@ -1,10 +1,21 @@
 {
   "name": "auto-strict",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Add 'use strict'; to all code not in node_modules",
   "main": "index.js",
-  "author": "Tor Arvid Lund <torarvid@gmail.com>",
+  "author": {
+    "name": "Tor Arvid Lund",
+    "email": "torarvid@gmail.com"
+  },
+  "repository": "torarvid/auto-strict",
   "license": "ISC",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "strict",
+    "use-strict"
+  ],
   "dependencies": {},
   "devDependencies": {
     "eslint": "^4.0.0",
