@@ -1,5 +1,5 @@
 {
-  "name": "use-strict-yo",
+  "name": "auto-strict",
   "version": "0.0.1",
   "description": "Add 'use strict'; to all code not in node_modules",
   "main": "index.js",
