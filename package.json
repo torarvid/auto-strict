@@ -1,6 +1,6 @@
 {
   "name": "auto-strict",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Add 'use strict'; to all code not in node_modules",
   "main": "index.js",
   "author": {
